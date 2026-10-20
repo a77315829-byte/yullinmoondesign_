@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+<text x="35" y="38" font-size="30" fill="#4964ce" font-weight="700" text-anchor="start">CONVERSATION / TOOL-CALL LOOP</text>
+<text x="35" y="71" font-size="22" fill="#64718a" font-weight="400" text-anchor="start">OPENMOON 팀 확장 / 문맥을 가진 Agent가 도구 결과를 받아 응답하거나 다시 조회</text>
+<polyline points="315,217 440,217" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="440,217 429.1946347717679,222.21958640933477 429.1946347717679,211.78041359066523" fill="#4964ce"/>
+<polyline points="750,205 835,205 835,167 960,167" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="960,167 949.1946347717678,172.21958640933477 949.1946347717678,161.78041359066523" fill="#4964ce"/>
+<polyline points="750,237 835,237 835,342 960,342" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="960,342 949.1946347717678,347.21958640933474 949.1946347717678,336.78041359066526" fill="#4964ce"/>
+<polyline points="1095,210 1095,285 595,285 595,265" fill="none" stroke="#4964ce" stroke-width="3" stroke-dasharray="10 7"/>
+<polygon points="595,265 600.2195864093347,275.8053652282321 589.7804135906653,275.8053652282321" fill="#4964ce"/>
+<polyline points="960,342 900,342 900,425 595,425 595,265" fill="none" stroke="#a36316" stroke-width="3" stroke-dasharray="10 7"/>
+<polygon points="595,265 600.2195864093347,275.8053652282321 589.7804135906653,275.8053652282321" fill="#a36316"/>
+<polyline points="750,185 800,185 800,95 1437,95 1437,170" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="1437,170 1431.7804135906651,159.19463477176788 1442.2195864093349,159.19463477176788" fill="#4964ce"/>
+<rect x="45" y="170" width="270" height="95" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="180.0" y="196.0" font-size="22" fill="#172842" font-weight="700" text-anchor="middle">대화 · 업무 기억</text>
+<text x="180.0" y="228.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">최근 대화 / 요약 / 장기</text>
+<text x="180.0" y="254.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">기억</text>
+<rect x="440" y="170" width="310" height="95" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="595.0" y="212.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">상담 · 견적 Agent</text>
+<text x="595.0" y="244.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">OpenAI / Anthropic</text>
+<rect x="960" y="125" width="270" height="85" rx="14" fill="#eef8f5" stroke="#afd7cf" stroke-width="2"/>
+<text x="1095.0" y="162.5" font-size="28" fill="#137d78" font-weight="700" text-anchor="middle">업무 조회 Tool</text>
+<text x="1095.0" y="194.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">지식 · 이력 · 단가표</text>
+<rect x="960" y="300" width="270" height="85" rx="14" fill="#fff7ec" stroke="#e2c69b" stroke-width="2"/>
+<text x="1095.0" y="337.5" font-size="28" fill="#a36316" font-weight="700" text-anchor="middle">견적 수정 Tool</text>
+<text x="1095.0" y="369.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">검토 후 Excel 갱신</text>
+<rect x="1320" y="170" width="235" height="95" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="1437.5" y="196.0" font-size="22" fill="#172842" font-weight="700" text-anchor="middle">근거 기반 응답</text>
+<text x="1437.5" y="228.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">사람의 발송 승인 별</text>
+<text x="1437.5" y="254.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">도</text>
+<text x="45" y="578" font-size="23" fill="#64718a" font-weight="400" text-anchor="start">OpenAI 전체 상담 경로의 웹 검색은 선택 도구입니다.</text>
+<rect x="776" y="143" width="98.96875" height="30" rx="5" fill="white"/>
+<text x="780" y="166" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">Tool 요청</text>
+<rect x="656" y="296" width="218.0" height="30" rx="5" fill="white"/>
+<text x="660" y="319" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">조회 결과로 계속 판단</text>
+<rect x="571" y="468" width="288.0" height="30" rx="5" fill="white"/>
+<text x="575" y="491" font-size="21" fill="#a36316" font-weight="400" text-anchor="start">검토 이슈가 있으면 수정 보류</text>
+<rect x="1146" y="85" width="99.0" height="30" rx="5" fill="white"/>
+<text x="1150" y="108" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">최종 답변</text>
+</g>
+</svg>
